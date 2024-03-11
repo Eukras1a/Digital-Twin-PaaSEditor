@@ -1,0 +1,19 @@
+{
+    "name": "Twin.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8b97cc8e76684744e8259d55108b52a1",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:fb20bc2d30583e34fba2eb37c20bd497",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

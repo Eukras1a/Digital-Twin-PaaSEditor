@@ -1,0 +1,957 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a37e76ce395ad4a9d0c4633bbe6e21, type: 3}
+  m_Name: SceneAssetLibrary
+  m_EditorClassIdentifier: 
+  m_offset: 0
+  m_ordinal: 0
+  m_assetLibrary:
+    m_ID: 0
+    m_Name: Root
+    m_Depth: -1
+    Identity: 136
+    FolderIdentity: 4
+    Folders:
+    - m_ID: 0
+      m_Name: Root
+      m_Depth: -1
+      Assets: []
+      IsEnabled: 0
+    - m_ID: 3
+      m_Name: Assets
+      m_Depth: 0
+      Assets:
+      - m_ID: 4
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2722625542642438448, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 5
+        m_Name: Material #25
+        m_Depth: 0
+        Object: {fileID: 8290782892783832528, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 6
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4321431497356396214, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 7
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -814528171574965390, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 8
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1601019663074012611, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 9
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3917391088988466610, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 10
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5376383267977330225, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 11
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7043893438477051405, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 12
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3222901213096185239, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 13
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7659998040026970255, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 14
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6773906775402128026, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 15
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3045459703086794717, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 16
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2973555805796919994, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 17
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -791573507638183481, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 18
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6464169734041295868, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 19
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4352777370403033982, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 20
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 8277405167812580273, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 21
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -403373054014667182, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 22
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4991415967579643247, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 23
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2463352439750811325, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 24
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6281365633819756228, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 25
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1725529857628979959, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 26
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2581619799165973538, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 27
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6313698305183509949, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 28
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -150997927111465718, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 29
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6245951161175554629, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 30
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6067735034774140570, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 31
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3282589030250044909, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 32
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4664995177257418362, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 33
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -890834814216129803, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 34
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4479483110970828225, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 35
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6521611289142020244, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 36
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7872795671820567034, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 37
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4098726550144189296, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 38
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3690111224878832032, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 39
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3511621810748341206, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 40
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8543670471941228318, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 41
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -627103819730416226, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 42
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7439360278311589829, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 43
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4858382315426828994, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 44
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6179981456610237980, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 45
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 638360214684118583, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 46
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2501611401023689396, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 47
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2907489867774434795, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 48
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1778979283951673661, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 49
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7990192457727918825, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 50
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3238600438042802218, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 51
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5410708669768780649, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 52
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3867175331438247365, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 53
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8903608765745028170, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 54
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8045347321457967548, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 55
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6880694472214993447, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 56
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4657558839455190460, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 57
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2481457873835043113, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 58
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3717479832139110544, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 59
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 637637445148624488, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 60
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7088594372356259739, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 61
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4116540864538393871, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 62
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7228193739402928449, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 63
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3202740445471751044, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 64
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 1120572448101219833, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 65
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7659070751320172504, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 66
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1020331128281148928, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 67
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6408847407815027372, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 68
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 8823739280305801849, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 69
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6617297743303718427, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 70
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1757289737277112149, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 71
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -449061588735440330, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 72
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8273811143400348438, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 73
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2458554479116386390, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 74
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5873685256678088631, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 75
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -31680005536953479, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 76
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8886394846091027260, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 77
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7584801715049560596, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 78
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6644469604445754508, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 79
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -179207332525385314, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 80
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 5817599242117941609, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 81
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3370467933979234443, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 82
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 968720685936833772, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 83
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3017646644606463401, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 84
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 2337688982814684992, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 85
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2557451464457204410, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 86
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -1532415661391885797, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 87
+        m_Name: Material #26
+        m_Depth: 0
+        Object: {fileID: 7626191068330388430, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 88
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4051372409181031830, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 89
+        m_Name: Material #27
+        m_Depth: 0
+        Object: {fileID: 8830196273332348141, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 90
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7818244476677030073, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 91
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3981845454014141236, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 92
+        m_Name: Material #28
+        m_Depth: 0
+        Object: {fileID: 8578991229988381114, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 93
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 15325725972450951, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 94
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2798535578241689317, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 95
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 5915607439923819670, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 96
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3878711655241225572, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 97
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 1981882667507031930, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 98
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 5180286540177662044, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 99
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4192279574904589757, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 100
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 7060962715252679756, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 101
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -244857489637806306, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 102
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 9067688051911242036, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 103
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6657500546761119716, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 104
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2598771983193349050, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 105
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7345407165412383750, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 106
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4462699731044365417, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 107
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -6678720042139846876, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 108
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2681315514708090237, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 109
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -200241623621896685, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 110
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4182271064444979404, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 111
+        m_Name: Material #29
+        m_Depth: 0
+        Object: {fileID: -4963801623029300775, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 112
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 538464286383834720, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 113
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7337230453432103164, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 114
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -9138976839173112568, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 115
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -2355659401678283250, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 116
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7722349322239231175, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 117
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5773615428106674957, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 118
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6566933686493120482, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 119
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -3093996521078031011, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 120
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 5110907151170440642, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 121
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -7528741051471070297, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 122
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3994442065302512928, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 123
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 1221324265770853264, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 124
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4968362395248711830, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 125
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 3042398835386585174, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 126
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5937695958513774179, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 127
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 228776569664878694, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 128
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -5102489102821658811, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 129
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 5856138664036559601, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 130
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -4787378791411756176, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 131
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -8238676648591108490, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 132
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 8860712419709060870, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 133
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: -789601349322219147, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 134
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 4508246408339096153, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      - m_ID: 135
+        m_Name: stitch_result_stitch all
+        m_Depth: 0
+        Object: {fileID: 6946969254465813283, guid: b0fc9f01a0c22c84b8d4695a96f04040,
+          type: 3}
+        IsEnabled: 0
+        PrefabParts: []
+      IsEnabled: 1

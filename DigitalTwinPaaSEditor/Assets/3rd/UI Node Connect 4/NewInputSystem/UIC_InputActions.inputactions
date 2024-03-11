@@ -1,0 +1,110 @@
+{
+    "name": "UIC3_InputActions",
+    "maps": [
+        {
+            "name": "Pointer",
+            "id": "a5323ab9-2c94-4df3-b896-df221775e07a",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "dd4500f5-36f9-41f5-99d3-4d1f42238cbf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Position",
+                    "type": "PassThrough",
+                    "id": "cc2c8528-f349-4726-8dcb-2a4845f981cb",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4040a9b5-25f2-4abb-8871-64771a50a2a5",
+                    "path": "<Pointer>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c43fa315-4c54-4dc6-85cf-94376d4a0437",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "SecondaryKey",
+            "id": "d72b77fa-9ccb-4cf6-a8db-ac10c7635d44",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "a047eb50-5de7-4ad6-ae13-c09e41d0cd80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bd101d7e-49e4-4a60-b242-6d2fa9e18d0a",
+                    "path": "<Keyboard>/leftCtrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Delete",
+            "id": "6a262e05-fa2f-47b1-8361-36445c194a55",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "df265c24-9590-4ccb-8644-c2c5f0861020",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ec76987b-643d-426e-a4fd-3b2fe73368b7",
+                    "path": "<Keyboard>/delete",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
